@@ -286,6 +286,8 @@ netherworld/wall_of_a_thousand_eyes.png	https://raw.githubusercontent.com/merlin
 netherworld/whirlpool_of_blood.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/netherworld/whirlpool_of_blood.png
 netherworld/elevator_to_the_netherworld.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/netherworld/elevator_to_the_netherworld.png
 
+promos/burned_for_victory_pr.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/promos/burned_for_victory_pr.jpg
+
 unlimited/alpha_beast.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/unlimited/alpha_beast.png
 unlimited/arcanotechnician.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/unlimited/arcanotechnician.png
 unlimited/arcanowave_researcher.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/unlimited/arcanowave_researcher.png

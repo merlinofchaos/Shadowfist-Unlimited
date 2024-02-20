@@ -1,0 +1,2 @@
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Burned for Victory	promos	burned_for_victory_pr	Token	Unaligned	Former Feng Shui Site				0	0	0	Promo	burned victory former	This card is to be put into your Burned for Victory pile. It counts towards victory.
