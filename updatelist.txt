@@ -6,6 +6,8 @@ plugins/shadowfistunlimited/version.txt	https://raw.githubusercontent.com/merlin
 plugins/shadowfistunlimited/sets/flashpoint.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/flashpoint.txt	3450613
 plugins/shadowfistunlimited/sets/netherworld.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/netherworld.txt	3320828
 plugins/shadowfistunlimited/sets/unlimited.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/unlimited.txt	6210106
+plugins/shadowfistunlimited/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/general/cardback.jpg	-44355
+plugins/shadowfistunlimited/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/general/spawned.jpg	-18038
 plugins/shadowfistunlimited/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/CardImageURLs1.txt	8974450
 CardURLFiles:
 CardImageURLs1.txt
