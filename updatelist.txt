@@ -1,12 +1,11 @@
-retrofist	02-20-24
-plugins/retrofist/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/bot.jpg	-6212
-plugins/retrofist/formats.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/formats.txt	101807
-plugins/retrofist/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/plugininfo.txt	435265
-plugins/retrofist/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/pluginpreferences.txt	0
-plugins/retrofist/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/version.txt	30923
-plugins/retrofist/sets/flashpoint.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/flashpoint.txt	3450613
-plugins/retrofist/sets/netherworld.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/netherworld.txt	3320828
-plugins/retrofist/sets/unlimited.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/unlimited.txt	6210106
-plugins/retrofist/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/CardImageURLs1.txt	8974450
+shadowfistunlimited	02-20-24
+plugins/shadowfistunlimited/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/bot.jpg	-6212
+plugins/shadowfistunlimited/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/plugininfo.txt	435265
+plugins/shadowfistunlimited/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/pluginpreferences.txt	0
+plugins/shadowfistunlimited/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/version.txt	30923
+plugins/shadowfistunlimited/sets/flashpoint.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/flashpoint.txt	3450613
+plugins/shadowfistunlimited/sets/netherworld.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/netherworld.txt	3320828
+plugins/shadowfistunlimited/sets/unlimited.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/unlimited.txt	6210106
+plugins/shadowfistunlimited/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/CardImageURLs1.txt	8974450
 CardURLFiles:
 CardImageURLs1.txt
