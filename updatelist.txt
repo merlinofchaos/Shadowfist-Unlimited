@@ -1,14 +1,14 @@
-shadowfistunlimited	02-20-24
+shadowfistunlimited	03-16-24
 plugins/shadowfistunlimited/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/bot.jpg	-6212
 plugins/shadowfistunlimited/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/plugininfo.txt	435265
 plugins/shadowfistunlimited/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/pluginpreferences.txt	0
-plugins/shadowfistunlimited/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/version.txt	30923
-plugins/shadowfistunlimited/sets/flashpoint.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/flashpoint.txt	3450613
-plugins/shadowfistunlimited/sets/netherworld.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/netherworld.txt	3320828
+plugins/shadowfistunlimited/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/version.txt	29767
+plugins/shadowfistunlimited/sets/flashpoint.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/flashpoint.txt	3432787
+plugins/shadowfistunlimited/sets/netherworld.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/netherworld.txt	3323096
 plugins/shadowfistunlimited/sets/tokens.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/tokens.txt	31329
-plugins/shadowfistunlimited/sets/unlimited.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/unlimited.txt	6210106
+plugins/shadowfistunlimited/sets/unlimited.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/unlimited.txt	6226730
 plugins/shadowfistunlimited/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/general/cardback.jpg	-44355
 plugins/shadowfistunlimited/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/general/spawned.jpg	-18038
-plugins/shadowfistunlimited/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/CardImageURLs1.txt	8989974
+plugins/shadowfistunlimited/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/CardImageURLs1.txt	8975790
 CardURLFiles:
 CardImageURLs1.txt

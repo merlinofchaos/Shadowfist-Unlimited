@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>240220</lastupdateYYMMDD>
+<lastupdateYYMMDD>240316</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/updatelist.txt</updateurl>
-<message>Initial version</message>
+<message>v1.2.1</message>
 </version>

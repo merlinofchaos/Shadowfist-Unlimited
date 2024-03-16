@@ -123,7 +123,6 @@ flashpoint/mirror_dancer.png	https://raw.githubusercontent.com/merlinofchaos/Sha
 flashpoint/memory_reprocessing.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/flashpoint/memory_reprocessing.png
 flashpoint/year_of_the_rat.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/flashpoint/year_of_the_rat.png
 flashpoint/cheap_punks.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/flashpoint/cheap_punks.png
-flashpoint/white_ninja.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/flashpoint/white_ninja.png
 flashpoint/yakuza_enforcer.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/flashpoint/yakuza_enforcer.png
 flashpoint/art_of_war.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/flashpoint/art_of_war.png
 flashpoint/birdhouse_cafe.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Unlimited/main/sets/setimages/flashpoint/birdhouse_cafe.png
